@@ -1,1 +1,1 @@
-Personal webpage that highlightes expiriences, projects and skills through my academic career.
+Personal webpage that highlights experiences, projects and skills through my academic career.
