@@ -1,0 +1,92 @@
+html {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto;
+    margin: 30px 30px 30px 30px;
+    background-color: white;
+    color: gray;
+}
+
+#name {
+    font-size: 50px;
+    position: relative;
+    bottom: 15px;
+}
+
+#bio-description {
+    font-size: 15px;
+    color: grey;
+    position: relative;
+    bottom: 40px;
+}
+
+.social-links {
+    position: relative;
+    bottom: 10px;
+    right: 38px;
+}
+
+.proPicDiv {
+    width: 15%;
+}
+
+.profilepic {
+    border-radius: 50%;
+    float: left;
+    margin-left: 35px;
+    margin-top: 40px;
+}
+
+img.hover {
+    transform: scale(1.5);
+}
+
+a {
+    text-decoration: none;
+    color: gray;
+}
+
+a:visited {
+    color: gray;
+}
+
+a:hover {
+    color: black;
+}
+
+li {
+    list-style-type: none;
+    display: inline;
+    text-align: left;
+    word-spacing: 55px;
+}
+
+#headers {
+    color: lightslategray;
+}
+
+#aboutmeparagraph {
+    text-align: left;
+}
+
+.profile-box {
+    text-align: left;
+    width: 70%;
+    margin-left: 20%;
+    border: 3px solid transparent;
+    padding: 1%;
+    float: center;
+}
+
+.subject-info {
+    width: 70%;
+    border: 3px solid white;
+    padding: 0% 1% 0% 1%;
+    margin-left: 20%;
+    line-height: 1.7;
+}
+
+.headers {
+    width: 15%;
+    border: transparent 3px solid;
+    float: left;
+    text-align: center;
+}
